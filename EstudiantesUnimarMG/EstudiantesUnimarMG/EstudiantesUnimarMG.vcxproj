@@ -131,13 +131,17 @@
     <ClCompile Include="Estudiante.cpp" />
     <ClCompile Include="EstudiantesUnimarMG.cpp" />
     <ClCompile Include="Listas.cpp" />
+    <ClCompile Include="Materia.cpp" />
     <ClCompile Include="Nodos.cpp" />
+    <ClCompile Include="Nota.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Arbol.h" />
     <ClInclude Include="Estudiante.h" />
     <ClInclude Include="Listas.h" />
+    <ClInclude Include="Materia.h" />
     <ClInclude Include="Nodos.h" />
+    <ClInclude Include="Nota.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

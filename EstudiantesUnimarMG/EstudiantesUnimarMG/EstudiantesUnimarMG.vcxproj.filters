@@ -30,6 +30,12 @@
     <ClCompile Include="Estudiante.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Nota.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Materia.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Listas.h">
@@ -42,6 +48,12 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Estudiante.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Nota.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Materia.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
