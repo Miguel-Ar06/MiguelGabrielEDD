@@ -1,5 +1,6 @@
 #include "Materia.h"
 using namespace EstudiantesUnimarMG;
+
 Materia::Materia(string _codigo, string _nombre)
 {
 	codigo = _codigo;

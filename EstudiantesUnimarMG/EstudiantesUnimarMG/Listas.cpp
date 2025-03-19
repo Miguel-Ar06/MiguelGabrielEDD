@@ -156,3 +156,4 @@ void ListaDoble::Mostrar() {
 		cout << "--------------------------------" << endl;
 		actual = actual->sig;
 	}
+}

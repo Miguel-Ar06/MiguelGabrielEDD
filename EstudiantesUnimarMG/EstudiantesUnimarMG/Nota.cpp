@@ -1,4 +1,5 @@
 #include "Nota.h"
+
 Nota::Nota(float _nota, string _fecha, int _porcentaje)
 {
 	nota = _nota;
