@@ -1,8 +1,8 @@
 #pragma once
-#include <iostream>;
-#include <stdlib.h>;
-#include <string>;
-#include "Listas.h";
+#include <iostream>
+#include <stdlib.h>
+#include <string>
+#include "Listas.h"
 
 using namespace std;
 

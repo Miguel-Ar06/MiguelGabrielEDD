@@ -1,9 +1,10 @@
 #pragma once
-#include <iostream>;
-#include <stdlib.h>;
-#include "Estudiante.h";
-#include "Nota.h";
-#include "Materia.h";
+#include <iostream>
+#include <stdlib.h>
+#include "Estudiante.h"
+#include "Nota.h"
+#include "Materia.h"
+
 using namespace std;
 
 namespace EstudiantesUnimarMG

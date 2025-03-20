@@ -1,7 +1,8 @@
 #pragma once
-using namespace std;
 #include <string>
 #include "Listas.h"
+
+using namespace std;
 using namespace EstudiantesUnimarMG;
 
 class Materia
