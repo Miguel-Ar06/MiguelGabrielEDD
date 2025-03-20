@@ -2,7 +2,7 @@
 #include <iostream>
 #include <stdlib.h>
 #include <string>
-#include "Listas.h"
+#include "ListaDoble.h"
 
 using namespace std;
 
@@ -20,6 +20,5 @@ namespace EstudiantesUnimarMG
 			ListaDoble materias;
 			// el constructor esta pensado para pedir todos los datos primero y luego pasarselos, tambien podriamos iniciar todo en null e ir seteando
 			Estudiante(string _nombre, int _edad, long _cedula, string _carrera, ListaDoble _materias);
-
 	};
 }

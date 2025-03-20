@@ -1,4 +1,5 @@
 #include "Nota.h"
+using namespace EstudiantesUnimarMG;
 
 Nota::Nota(float _nota, string _fecha, int _porcentaje)
 {

@@ -130,17 +130,23 @@
     <ClCompile Include="Arbol.cpp" />
     <ClCompile Include="Estudiante.cpp" />
     <ClCompile Include="EstudiantesUnimarMG.cpp" />
-    <ClCompile Include="Listas.cpp" />
+    <ClCompile Include="ListaDoble.cpp" />
+    <ClCompile Include="ListaSimple.cpp" />
     <ClCompile Include="Materia.cpp" />
-    <ClCompile Include="Nodos.cpp" />
+    <ClCompile Include="NodoArbol.cpp" />
+    <ClCompile Include="NodoDoble.cpp" />
+    <ClCompile Include="NodoSimple.cpp" />
     <ClCompile Include="Nota.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Arbol.h" />
     <ClInclude Include="Estudiante.h" />
-    <ClInclude Include="Listas.h" />
+    <ClInclude Include="ListaDoble.h" />
+    <ClInclude Include="ListaSimple.h" />
     <ClInclude Include="Materia.h" />
-    <ClInclude Include="Nodos.h" />
+    <ClInclude Include="NodoArbol.h" />
+    <ClInclude Include="NodoDoble.h" />
+    <ClInclude Include="NodoSimple.h" />
     <ClInclude Include="Nota.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

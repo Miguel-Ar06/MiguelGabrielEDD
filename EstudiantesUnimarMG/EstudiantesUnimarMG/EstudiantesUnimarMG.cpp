@@ -1,7 +1,8 @@
 #include <iostream>
 #include <string>
 #include <stdlib.h>
-#include "Listas.h"
+#include "ListaDoble.h"
+#include "ListaSimple.h"
 #include "Arbol.h"
 
 using namespace std;

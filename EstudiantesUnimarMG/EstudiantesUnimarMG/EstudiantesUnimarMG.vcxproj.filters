@@ -18,13 +18,13 @@
     <ClCompile Include="EstudiantesUnimarMG.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Listas.cpp">
+    <ClCompile Include="ListaSimple.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Arbol.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Nodos.cpp">
+    <ClCompile Include="NodoSimple.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Estudiante.cpp">
@@ -36,15 +36,24 @@
     <ClCompile Include="Materia.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="ListaDoble.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="NodoDoble.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="NodoArbol.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Listas.h">
+    <ClInclude Include="ListaSimple.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Arbol.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Nodos.h">
+    <ClInclude Include="NodoSimple.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Estudiante.h">
@@ -54,6 +63,15 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Materia.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ListaDoble.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="NodoDoble.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="NodoArbol.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

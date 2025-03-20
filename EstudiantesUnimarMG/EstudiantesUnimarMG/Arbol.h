@@ -1,7 +1,7 @@
 #pragma once
 #include <iostream>
 #include <stdlib.h>
-#include "Nodos.h"
+#include "NodoArbol.h"
 
 using namespace std;
 

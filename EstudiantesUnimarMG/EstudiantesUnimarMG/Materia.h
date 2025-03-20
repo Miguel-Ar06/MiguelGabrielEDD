@@ -1,18 +1,19 @@
 #pragma once
 #include <string>
-#include "Listas.h"
+#include "ListaSimple.h"
 
 using namespace std;
-using namespace EstudiantesUnimarMG;
 
-class Materia
+namespace EstudiantesUnimarMG
 {
-	public:
-		string codigo;
-		string nombre;
-		float notaFinal;
-		ListaSimple notas;
-		Materia(string _codigo, string _nombre);
-		void actualizarNotaFinal();
-};
-
+	class Materia
+	{
+		public:
+			string codigo;
+			string nombre;
+			float notaFinal;
+			ListaSimple notas;
+			Materia(string _codigo, string _nombre);
+			void actualizarNotaFinal();
+	};
+}
