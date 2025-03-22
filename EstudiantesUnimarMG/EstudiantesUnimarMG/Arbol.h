@@ -12,7 +12,7 @@ namespace EstudiantesUnimarMG
 		private:
 			NodoArbol* raiz;
 			NodoArbol* EliminarRecursivo(NodoArbol* inicio, long cedula);
-			void InsertarRecursivo(Estudiante* nuevoEstudiante, NodoArbol* inicio);
+			NodoArbol* InsertarRecursivo(Estudiante* &nuevoEstudiante, NodoArbol* &inicio);
 			NodoArbol* BuscarRecursivo(long cedula, NodoArbol* inicio);
 
 		public:
@@ -25,5 +25,7 @@ namespace EstudiantesUnimarMG
 
 			void EliminarEstudiante(long cedula);
 			bool EstaVacio();
+			void ImprimirArbolRecursivo(NodoArbol* nodo);
+			void ImprimirArbol();
 	};
 }

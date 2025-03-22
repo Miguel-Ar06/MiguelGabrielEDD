@@ -1,14 +1,3 @@
 ﻿  Arbol.cpp
-  Estudiante.cpp
-  EstudiantesUnimarMG.cpp
-  ListaDoble.cpp
-  ListaSimple.cpp
-  Materia.cpp
-  NodoArbol.cpp
-  NodoDoble.cpp
-  NodoSimple.cpp
-  Nota.cpp
-  Generating Code...
-C:\Users\nombr\OneDrive\Documentos\code\tarea\MiguelGabrielEDD\EstudiantesUnimarMG\EstudiantesUnimarMG\Arbol.cpp(31,1): warning C4715: 'EstudiantesUnimarMG::Arbol::BuscarRecursivo': not all control paths return a value
-C:\Users\nombr\OneDrive\Documentos\code\tarea\MiguelGabrielEDD\EstudiantesUnimarMG\EstudiantesUnimarMG\Arbol.cpp(106,1): warning C4715: 'EstudiantesUnimarMG::Arbol::EliminarRecursivo': not all control paths return a value
+C:\Users\nombr\OneDrive\Documentos\code\tarea\MiguelGabrielEDD\EstudiantesUnimarMG\EstudiantesUnimarMG\Arbol.cpp(122,1): warning C4715: 'EstudiantesUnimarMG::Arbol::EliminarRecursivo': not all control paths return a value
   EstudiantesUnimarMG.vcxproj -> C:\Users\nombr\OneDrive\Documentos\code\tarea\MiguelGabrielEDD\EstudiantesUnimarMG\x64\Debug\EstudiantesUnimarMG.exe

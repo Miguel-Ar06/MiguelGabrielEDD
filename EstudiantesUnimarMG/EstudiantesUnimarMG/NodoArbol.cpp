@@ -5,5 +5,5 @@ NodoArbol::NodoArbol(Estudiante* _estudiante)
 {
 	izq = nullptr;
 	der = nullptr;
-	estudiante = estudiante;
+	estudiante = _estudiante;
 }

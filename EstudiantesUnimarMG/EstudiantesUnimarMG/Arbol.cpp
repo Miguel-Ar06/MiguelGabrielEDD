@@ -13,21 +13,20 @@ NodoArbol* Arbol::BuscarRecursivo(long cedula, NodoArbol* inicio)
 		return nullptr;
 	}
 
-	if (inicio->estudiante->cedula = cedula)
+	if (inicio->estudiante->cedula == cedula)
 	{
 		return inicio;
 	}
-	else
+	if (cedula > inicio->estudiante->cedula)
 	{
-		if (cedula > inicio->estudiante->cedula)
-		{
-			return BuscarRecursivo(cedula, inicio->der);
-		}
-		if (cedula < inicio->estudiante->cedula)
-		{
-			return BuscarRecursivo(cedula, inicio->izq);
-		}
+		return BuscarRecursivo(cedula, inicio->der);
 	}
+	if (cedula < inicio->estudiante->cedula)
+	{
+		return BuscarRecursivo(cedula, inicio->izq);
+	}
+
+	return nullptr;
 }
 
 NodoArbol* Arbol::BuscarEstudiante(long cedula)
@@ -35,27 +34,28 @@ NodoArbol* Arbol::BuscarEstudiante(long cedula)
 	return BuscarRecursivo(cedula, raiz);
 }
 
-void Arbol::InsertarRecursivo(Estudiante* nuevoEstudiante, NodoArbol* inicio)
+// & para pasarlo por referencia y no una copia del puntero
+NodoArbol* Arbol::InsertarRecursivo(Estudiante* &nuevoEstudiante, NodoArbol* &inicio)
 {
 	if (inicio == nullptr)
 	{
-		NodoArbol* nuevoNodo = new NodoArbol(nuevoEstudiante);
-		inicio = nuevoNodo;
-		return;
+		return new NodoArbol(nuevoEstudiante);
 	}
 	else if (nuevoEstudiante->cedula > inicio->estudiante->cedula)
 	{
-		InsertarRecursivo(nuevoEstudiante, inicio->der);
+		inicio->der = InsertarRecursivo(nuevoEstudiante, inicio->der);
 	}
 	else if (nuevoEstudiante->cedula < inicio->estudiante->cedula)
 	{
-		InsertarRecursivo(nuevoEstudiante, inicio->izq);
+		inicio->izq = InsertarRecursivo(nuevoEstudiante, inicio->izq);
 	}
+
+	return inicio;
 }
 
 void Arbol::InsertarEstudiante(Estudiante* nuevoEstudiante)
 {
-	InsertarRecursivo(nuevoEstudiante, raiz);
+	this->raiz = InsertarRecursivo(nuevoEstudiante, raiz);
 }
 
 NodoArbol* Arbol::EliminarRecursivo(NodoArbol* inicio, long cedula)
@@ -98,26 +98,30 @@ NodoArbol* Arbol::EliminarRecursivo(NodoArbol* inicio, long cedula)
 		// caso 3: dos hijos
 		else
 		{
-			NodoArbol* aux = BuscarMinimo(inicio->der);
-			inicio->estudiante = aux->estudiante;
-			inicio->der = EliminarRecursivo(inicio->der, cedula);
+			NodoArbol* minimo = BuscarMinimo(inicio->der);
+			inicio->estudiante = minimo->estudiante;
+			inicio->der = EliminarRecursivo(inicio->der, minimo->estudiante->cedula);
 		}
+
+		return inicio;
 	}
 }
 
 void Arbol::EliminarEstudiante(long cedula)
 {
-	EliminarRecursivo(raiz, cedula);
+	this->raiz = EliminarRecursivo(raiz, cedula);
 }
 
 NodoArbol* Arbol::BuscarMinimo(NodoArbol* inicio)
 {
-	if (inicio->izq == nullptr || inicio == nullptr)
+	NodoArbol* minimo = inicio;
+
+	while (minimo && minimo->izq != nullptr)
 	{
-		return inicio;
+		minimo = minimo->izq;
 	}
 
-	return BuscarMinimo(inicio->izq);
+	return minimo;
 }
 
 NodoArbol* Arbol::BuscarMaximo(NodoArbol* inicio)
@@ -133,4 +137,19 @@ NodoArbol* Arbol::BuscarMaximo(NodoArbol* inicio)
 bool Arbol::EstaVacio()
 {
 	return (raiz == nullptr);
+}
+
+void Arbol::ImprimirArbolRecursivo(NodoArbol* nodo)
+{
+	if (nodo != nullptr) {
+		ImprimirArbolRecursivo(nodo->izq);
+		cout << nodo->estudiante->nombre << " - " << nodo->estudiante->cedula << endl;
+		ImprimirArbolRecursivo(nodo->der);
+	}
+}
+
+void Arbol::ImprimirArbol()
+{
+	ImprimirArbolRecursivo(raiz);
+	cout << "\n";
 }
