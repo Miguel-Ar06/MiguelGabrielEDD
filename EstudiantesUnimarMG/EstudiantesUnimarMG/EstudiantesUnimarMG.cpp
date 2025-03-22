@@ -21,45 +21,46 @@ int main()
 	//     0. Salir
 
 	// pruebas
-	
-	ListaDoble prueba = ListaDoble();
-	Estudiante* moguel = new Estudiante("moguel", 18, 31348551, "ing", prueba);
-
-	ListaDoble prueba2 = ListaDoble();
-	Estudiante* moguel2 = new Estudiante("moguel2", 18, 31348552, "ing", prueba2);
-	
-	ListaDoble prueba3 = ListaDoble();
-	Estudiante* moguel3 = new Estudiante("moguel3", 18, 31348553, "ing", prueba3);
-
+	/*
+	Estudiante* moguel = new Estudiante("moguel", 18, 31348551, "ing");
+	Estudiante* moguel4 = new Estudiante("moguel4", 18, 31348554, "ing");
+	Estudiante* moguel5 = new Estudiante("moguel5", 18, 31348555, "ing");
+	Estudiante* moguelA = new Estudiante("moguelA", 18, 31348550, "ing");
+	Estudiante* moguelB = new Estudiante("moguelB", 18, 31348549, "ing");
+	Estudiante* moguel3 = new Estudiante("moguel3", 18, 31348553, "ing");
 
 	Arbol arbolito = Arbol();
 
-
-	arbolito.InsertarEstudiante(moguel);
 	cout << "inserciones \n" << endl;
+	arbolito.InsertarEstudiante(moguel);
 	arbolito.ImprimirArbol();
 
-	arbolito.InsertarEstudiante(moguel2);
+	arbolito.InsertarEstudiante(moguel4);
+	arbolito.ImprimirArbol();
+
+	arbolito.InsertarEstudiante(moguel5);
+	arbolito.ImprimirArbol();
+
+	arbolito.InsertarEstudiante(moguelA);
+	arbolito.ImprimirArbol();
+
+	arbolito.InsertarEstudiante(moguelB);
 	arbolito.ImprimirArbol();
 
 	arbolito.InsertarEstudiante(moguel3);
 	arbolito.ImprimirArbol();
 
-	cout << "busqueda de 31348552: \n" << endl;
-	cout << arbolito.BuscarEstudiante(31348552)->estudiante->nombre << "\n" << endl;
+	cout << "busqueda de 31348552 y 313488553: \n" << endl;
+	cout << arbolito.BuscarEstudiante(31348554)->estudiante->nombre << "\n" << endl;
+	cout << arbolito.BuscarEstudiante(31348553)->estudiante->nombre << "\n" << endl;
 
-	cout << "Eliminacion de 31348552: \n" << endl;
-	arbolito.EliminarEstudiante(31348552);
+	cout << "Eliminacion de 31348554: \n" << endl;
+	arbolito.EliminarEstudiante(31348554);
 	arbolito.ImprimirArbol();
 
-	cout << "Eliminacion del resto del arbol + inexistente: \n" << endl;
+	cout << "Eliminacion de la raiz + inexistente: \n" << endl;
 	arbolito.EliminarEstudiante(31348551);
-	arbolito.EliminarEstudiante(31348553);
 	arbolito.EliminarEstudiante(31348550);
 	arbolito.ImprimirArbol();
-
-
-
-
-
+	*/
 }

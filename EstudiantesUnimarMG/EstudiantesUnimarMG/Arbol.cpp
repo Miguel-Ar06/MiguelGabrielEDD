@@ -102,9 +102,9 @@ NodoArbol* Arbol::EliminarRecursivo(NodoArbol* inicio, long cedula)
 			inicio->estudiante = minimo->estudiante;
 			inicio->der = EliminarRecursivo(inicio->der, minimo->estudiante->cedula);
 		}
-
-		return inicio;
 	}
+
+	return inicio;
 }
 
 void Arbol::EliminarEstudiante(long cedula)

@@ -1,3 +1,6 @@
 ﻿  Arbol.cpp
-C:\Users\nombr\OneDrive\Documentos\code\tarea\MiguelGabrielEDD\EstudiantesUnimarMG\EstudiantesUnimarMG\Arbol.cpp(122,1): warning C4715: 'EstudiantesUnimarMG::Arbol::EliminarRecursivo': not all control paths return a value
+  Estudiante.cpp
+  EstudiantesUnimarMG.cpp
+  NodoArbol.cpp
+  Generating Code...
   EstudiantesUnimarMG.vcxproj -> C:\Users\nombr\OneDrive\Documentos\code\tarea\MiguelGabrielEDD\EstudiantesUnimarMG\x64\Debug\EstudiantesUnimarMG.exe

@@ -19,6 +19,6 @@ namespace EstudiantesUnimarMG
 			string carrera;
 			ListaDoble materias;
 			// el constructor esta pensado para pedir todos los datos primero y luego pasarselos, tambien podriamos iniciar todo en null e ir seteando
-			Estudiante(string _nombre, int _edad, long _cedula, string _carrera, ListaDoble _materias);
+			Estudiante(string _nombre, int _edad, long _cedula, string _carrera);
 	};
 }
