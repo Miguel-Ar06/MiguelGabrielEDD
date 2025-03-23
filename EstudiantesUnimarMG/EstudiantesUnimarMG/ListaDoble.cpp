@@ -79,6 +79,10 @@ bool ListaDoble::esVacia() {
 }
 
 void ListaDoble::Mostrar() {
+	if (cabeza == nullptr) {
+		cout << "El estudiante no tiene materias inscritas" << endl;
+		return;
+	}
 	NodoDoble* actual = cabeza;
 	cout << "--------------------------------" << endl;
 	while (actual != nullptr)
@@ -89,4 +93,16 @@ void ListaDoble::Mostrar() {
 		cout << "--------------------------------" << endl;
 		actual = actual->sig;
 	}
+}
+NodoDoble* ListaDoble::Buscar(string _codigo) {
+	NodoDoble* actual = cabeza;
+	while (actual != nullptr)
+	{
+		if (actual->materia->codigo == _codigo)
+		{
+			return actual;
+		}
+		actual = actual->sig;
+	}
+	return nullptr;
 }

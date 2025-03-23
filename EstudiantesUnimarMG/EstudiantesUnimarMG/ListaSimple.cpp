@@ -61,6 +61,11 @@ bool ListaSimple::esVacia() {
 	return cabeza == nullptr;
 }
 void ListaSimple::Mostrar() {
+	if (cabeza == nullptr)
+	{
+		cout << "No hay notas" << endl;
+		return;
+	}
 	NodoSimple* actual = cabeza;
 	cout << "--------------------------------" << endl;
 	while (actual != nullptr)

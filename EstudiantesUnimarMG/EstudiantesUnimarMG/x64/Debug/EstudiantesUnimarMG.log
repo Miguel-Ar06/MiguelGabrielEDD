@@ -1,6 +1,9 @@
 ﻿  Arbol.cpp
   Estudiante.cpp
   EstudiantesUnimarMG.cpp
+  ListaDoble.cpp
+  Materia.cpp
   NodoArbol.cpp
-  Generating Code...
-  EstudiantesUnimarMG.vcxproj -> C:\Users\nombr\OneDrive\Documentos\code\tarea\MiguelGabrielEDD\EstudiantesUnimarMG\x64\Debug\EstudiantesUnimarMG.exe
+  NodoDoble.cpp
+  Generando código...
+  EstudiantesUnimarMG.vcxproj -> C:\Users\gabri\OneDrive\Escritorio\Proyecto EDD Arboles\MiguelGabrielEDD\EstudiantesUnimarMG\x64\Debug\EstudiantesUnimarMG.exe

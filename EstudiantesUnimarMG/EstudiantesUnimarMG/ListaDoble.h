@@ -18,5 +18,6 @@ namespace EstudiantesUnimarMG
 			void ActualizarNotaFinal();
 			bool esVacia();
 			void Mostrar();
+			NodoDoble* Buscar(string _codigo);
 	};
 }

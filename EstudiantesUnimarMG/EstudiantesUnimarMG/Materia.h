@@ -15,5 +15,6 @@ namespace EstudiantesUnimarMG
 			ListaSimple notas;
 			Materia(string _codigo, string _nombre);
 			void actualizarNotaFinal();
+			void mostrar();
 	};
 }

@@ -12,3 +12,11 @@ void Materia::actualizarNotaFinal()
 {
 	notaFinal = notas.Promedio();
 }
+void Materia::mostrar()
+{
+	cout << "Codigo: " << codigo << endl;
+	cout << "Nombre: " << nombre << endl;
+	cout << "Nota Final: " << notaFinal << endl;
+	cout << "Notas: " << endl;
+	notas.Mostrar();
+}
