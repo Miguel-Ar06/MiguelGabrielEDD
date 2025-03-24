@@ -132,6 +132,7 @@
     <ClCompile Include="EstudiantesUnimarMG.cpp" />
     <ClCompile Include="ListaDoble.cpp" />
     <ClCompile Include="ListaSimple.cpp" />
+    <ClCompile Include="Menus.cpp" />
     <ClCompile Include="Materia.cpp" />
     <ClCompile Include="NodoArbol.cpp" />
     <ClCompile Include="NodoDoble.cpp" />
@@ -143,6 +144,7 @@
     <ClInclude Include="Estudiante.h" />
     <ClInclude Include="ListaDoble.h" />
     <ClInclude Include="ListaSimple.h" />
+    <ClInclude Include="Menus.h" />
     <ClInclude Include="Materia.h" />
     <ClInclude Include="NodoArbol.h" />
     <ClInclude Include="NodoDoble.h" />

@@ -19,4 +19,5 @@ void Materia::mostrar()
 	cout << "Nota Final: " << notaFinal << endl;
 	cout << "Notas: " << endl;
 	notas.Mostrar();
+	cout << endl;
 }

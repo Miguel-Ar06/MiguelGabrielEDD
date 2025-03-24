@@ -1,81 +1,89 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\gabri\\OneDrive\\Escritorio\\Proyecto EDD Arboles\\MiguelGabrielEDD\\EstudiantesUnimarMG\\",
+  "WorkspaceRootPath": "C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\MiguelGabrielEDD\\EstudiantesUnimarMG\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4802871B-6A8D-42EB-9B48-1E4D5F68B31A}|EstudiantesUnimarMG\\EstudiantesUnimarMG.vcxproj|C:\\Users\\gabri\\OneDrive\\Escritorio\\Proyecto EDD Arboles\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\EstudiantesUnimarMG.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{4802871B-6A8D-42EB-9B48-1E4D5F68B31A}|EstudiantesUnimarMG\\EstudiantesUnimarMG.vcxproj|C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\EstudiantesUnimarMG.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{4802871B-6A8D-42EB-9B48-1E4D5F68B31A}|EstudiantesUnimarMG\\EstudiantesUnimarMG.vcxproj|solutionrelative:EstudiantesUnimarMG\\EstudiantesUnimarMG.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4802871B-6A8D-42EB-9B48-1E4D5F68B31A}|EstudiantesUnimarMG\\EstudiantesUnimarMG.vcxproj|C:\\Users\\gabri\\OneDrive\\Escritorio\\Proyecto EDD Arboles\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\ListaSimple.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4802871B-6A8D-42EB-9B48-1E4D5F68B31A}|EstudiantesUnimarMG\\EstudiantesUnimarMG.vcxproj|solutionrelative:EstudiantesUnimarMG\\ListaSimple.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{4802871B-6A8D-42EB-9B48-1E4D5F68B31A}|EstudiantesUnimarMG\\EstudiantesUnimarMG.vcxproj|C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\Menus.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4802871B-6A8D-42EB-9B48-1E4D5F68B31A}|EstudiantesUnimarMG\\EstudiantesUnimarMG.vcxproj|solutionrelative:EstudiantesUnimarMG\\Menus.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4802871B-6A8D-42EB-9B48-1E4D5F68B31A}|EstudiantesUnimarMG\\EstudiantesUnimarMG.vcxproj|C:\\Users\\gabri\\OneDrive\\Escritorio\\Proyecto EDD Arboles\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\ListaDoble.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4802871B-6A8D-42EB-9B48-1E4D5F68B31A}|EstudiantesUnimarMG\\EstudiantesUnimarMG.vcxproj|solutionrelative:EstudiantesUnimarMG\\ListaDoble.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{4802871B-6A8D-42EB-9B48-1E4D5F68B31A}|EstudiantesUnimarMG\\EstudiantesUnimarMG.vcxproj|C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\Menus.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4802871B-6A8D-42EB-9B48-1E4D5F68B31A}|EstudiantesUnimarMG\\EstudiantesUnimarMG.vcxproj|solutionrelative:EstudiantesUnimarMG\\Menus.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4802871B-6A8D-42EB-9B48-1E4D5F68B31A}|EstudiantesUnimarMG\\EstudiantesUnimarMG.vcxproj|C:\\Users\\gabri\\OneDrive\\Escritorio\\Proyecto EDD Arboles\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\Nota.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4802871B-6A8D-42EB-9B48-1E4D5F68B31A}|EstudiantesUnimarMG\\EstudiantesUnimarMG.vcxproj|solutionrelative:EstudiantesUnimarMG\\Nota.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4802871B-6A8D-42EB-9B48-1E4D5F68B31A}|EstudiantesUnimarMG\\EstudiantesUnimarMG.vcxproj|C:\\Users\\gabri\\OneDrive\\Escritorio\\Proyecto EDD Arboles\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\Materia.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4802871B-6A8D-42EB-9B48-1E4D5F68B31A}|EstudiantesUnimarMG\\EstudiantesUnimarMG.vcxproj|solutionrelative:EstudiantesUnimarMG\\Materia.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4802871B-6A8D-42EB-9B48-1E4D5F68B31A}|EstudiantesUnimarMG\\EstudiantesUnimarMG.vcxproj|C:\\Users\\gabri\\OneDrive\\Escritorio\\Proyecto EDD Arboles\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\NodoDoble.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4802871B-6A8D-42EB-9B48-1E4D5F68B31A}|EstudiantesUnimarMG\\EstudiantesUnimarMG.vcxproj|solutionrelative:EstudiantesUnimarMG\\NodoDoble.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4802871B-6A8D-42EB-9B48-1E4D5F68B31A}|EstudiantesUnimarMG\\EstudiantesUnimarMG.vcxproj|C:\\Users\\gabri\\OneDrive\\Escritorio\\Proyecto EDD Arboles\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\ListaSimple.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4802871B-6A8D-42EB-9B48-1E4D5F68B31A}|EstudiantesUnimarMG\\EstudiantesUnimarMG.vcxproj|solutionrelative:EstudiantesUnimarMG\\ListaSimple.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4802871B-6A8D-42EB-9B48-1E4D5F68B31A}|EstudiantesUnimarMG\\EstudiantesUnimarMG.vcxproj|C:\\Users\\gabri\\OneDrive\\Escritorio\\Proyecto EDD Arboles\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\Materia.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4802871B-6A8D-42EB-9B48-1E4D5F68B31A}|EstudiantesUnimarMG\\EstudiantesUnimarMG.vcxproj|solutionrelative:EstudiantesUnimarMG\\Materia.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4802871B-6A8D-42EB-9B48-1E4D5F68B31A}|EstudiantesUnimarMG\\EstudiantesUnimarMG.vcxproj|C:\\Users\\gabri\\OneDrive\\Escritorio\\Proyecto EDD Arboles\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\ListaDoble.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4802871B-6A8D-42EB-9B48-1E4D5F68B31A}|EstudiantesUnimarMG\\EstudiantesUnimarMG.vcxproj|solutionrelative:EstudiantesUnimarMG\\ListaDoble.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4802871B-6A8D-42EB-9B48-1E4D5F68B31A}|EstudiantesUnimarMG\\EstudiantesUnimarMG.vcxproj|C:\\Users\\gabri\\OneDrive\\Escritorio\\Proyecto EDD Arboles\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\Estudiante.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4802871B-6A8D-42EB-9B48-1E4D5F68B31A}|EstudiantesUnimarMG\\EstudiantesUnimarMG.vcxproj|solutionrelative:EstudiantesUnimarMG\\Estudiante.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4802871B-6A8D-42EB-9B48-1E4D5F68B31A}|EstudiantesUnimarMG\\EstudiantesUnimarMG.vcxproj|C:\\Users\\gabri\\OneDrive\\Escritorio\\Proyecto EDD Arboles\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\Arbol.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4802871B-6A8D-42EB-9B48-1E4D5F68B31A}|EstudiantesUnimarMG\\EstudiantesUnimarMG.vcxproj|solutionrelative:EstudiantesUnimarMG\\Arbol.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4802871B-6A8D-42EB-9B48-1E4D5F68B31A}|EstudiantesUnimarMG\\EstudiantesUnimarMG.vcxproj|C:\\Users\\gabri\\OneDrive\\Escritorio\\Proyecto EDD Arboles\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\NodoArbol.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4802871B-6A8D-42EB-9B48-1E4D5F68B31A}|EstudiantesUnimarMG\\EstudiantesUnimarMG.vcxproj|solutionrelative:EstudiantesUnimarMG\\NodoArbol.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4802871B-6A8D-42EB-9B48-1E4D5F68B31A}|EstudiantesUnimarMG\\EstudiantesUnimarMG.vcxproj|C:\\Users\\gabri\\OneDrive\\Escritorio\\Proyecto EDD Arboles\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\Estudiante.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4802871B-6A8D-42EB-9B48-1E4D5F68B31A}|EstudiantesUnimarMG\\EstudiantesUnimarMG.vcxproj|solutionrelative:EstudiantesUnimarMG\\Estudiante.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4802871B-6A8D-42EB-9B48-1E4D5F68B31A}|EstudiantesUnimarMG\\EstudiantesUnimarMG.vcxproj|C:\\Users\\gabri\\OneDrive\\Escritorio\\Proyecto EDD Arboles\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\Arbol.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4802871B-6A8D-42EB-9B48-1E4D5F68B31A}|EstudiantesUnimarMG\\EstudiantesUnimarMG.vcxproj|solutionrelative:EstudiantesUnimarMG\\Arbol.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4802871B-6A8D-42EB-9B48-1E4D5F68B31A}|EstudiantesUnimarMG\\EstudiantesUnimarMG.vcxproj|C:\\Users\\gabri\\OneDrive\\Escritorio\\Proyecto EDD Arboles\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\NodoSimple.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{4802871B-6A8D-42EB-9B48-1E4D5F68B31A}|EstudiantesUnimarMG\\EstudiantesUnimarMG.vcxproj|C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\NodoSimple.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{4802871B-6A8D-42EB-9B48-1E4D5F68B31A}|EstudiantesUnimarMG\\EstudiantesUnimarMG.vcxproj|solutionrelative:EstudiantesUnimarMG\\NodoSimple.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4802871B-6A8D-42EB-9B48-1E4D5F68B31A}|EstudiantesUnimarMG\\EstudiantesUnimarMG.vcxproj|C:\\Users\\gabri\\OneDrive\\Escritorio\\Proyecto EDD Arboles\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\NodoArbol.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{4802871B-6A8D-42EB-9B48-1E4D5F68B31A}|EstudiantesUnimarMG\\EstudiantesUnimarMG.vcxproj|C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\Estudiante.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4802871B-6A8D-42EB-9B48-1E4D5F68B31A}|EstudiantesUnimarMG\\EstudiantesUnimarMG.vcxproj|solutionrelative:EstudiantesUnimarMG\\Estudiante.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4802871B-6A8D-42EB-9B48-1E4D5F68B31A}|EstudiantesUnimarMG\\EstudiantesUnimarMG.vcxproj|C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\Materia.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4802871B-6A8D-42EB-9B48-1E4D5F68B31A}|EstudiantesUnimarMG\\EstudiantesUnimarMG.vcxproj|solutionrelative:EstudiantesUnimarMG\\Materia.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4802871B-6A8D-42EB-9B48-1E4D5F68B31A}|EstudiantesUnimarMG\\EstudiantesUnimarMG.vcxproj|C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\ListaSimple.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4802871B-6A8D-42EB-9B48-1E4D5F68B31A}|EstudiantesUnimarMG\\EstudiantesUnimarMG.vcxproj|solutionrelative:EstudiantesUnimarMG\\ListaSimple.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4802871B-6A8D-42EB-9B48-1E4D5F68B31A}|EstudiantesUnimarMG\\EstudiantesUnimarMG.vcxproj|C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\Materia.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4802871B-6A8D-42EB-9B48-1E4D5F68B31A}|EstudiantesUnimarMG\\EstudiantesUnimarMG.vcxproj|solutionrelative:EstudiantesUnimarMG\\Materia.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4802871B-6A8D-42EB-9B48-1E4D5F68B31A}|EstudiantesUnimarMG\\EstudiantesUnimarMG.vcxproj|C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\Estudiante.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4802871B-6A8D-42EB-9B48-1E4D5F68B31A}|EstudiantesUnimarMG\\EstudiantesUnimarMG.vcxproj|solutionrelative:EstudiantesUnimarMG\\Estudiante.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4802871B-6A8D-42EB-9B48-1E4D5F68B31A}|EstudiantesUnimarMG\\EstudiantesUnimarMG.vcxproj|C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\ListaDoble.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4802871B-6A8D-42EB-9B48-1E4D5F68B31A}|EstudiantesUnimarMG\\EstudiantesUnimarMG.vcxproj|solutionrelative:EstudiantesUnimarMG\\ListaDoble.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4802871B-6A8D-42EB-9B48-1E4D5F68B31A}|EstudiantesUnimarMG\\EstudiantesUnimarMG.vcxproj|C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\NodoArbol.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{4802871B-6A8D-42EB-9B48-1E4D5F68B31A}|EstudiantesUnimarMG\\EstudiantesUnimarMG.vcxproj|solutionrelative:EstudiantesUnimarMG\\NodoArbol.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4802871B-6A8D-42EB-9B48-1E4D5F68B31A}|EstudiantesUnimarMG\\EstudiantesUnimarMG.vcxproj|C:\\Users\\gabri\\OneDrive\\Escritorio\\Proyecto EDD Arboles\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\NodoDoble.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{4802871B-6A8D-42EB-9B48-1E4D5F68B31A}|EstudiantesUnimarMG\\EstudiantesUnimarMG.vcxproj|C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\Nota.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4802871B-6A8D-42EB-9B48-1E4D5F68B31A}|EstudiantesUnimarMG\\EstudiantesUnimarMG.vcxproj|solutionrelative:EstudiantesUnimarMG\\Nota.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4802871B-6A8D-42EB-9B48-1E4D5F68B31A}|EstudiantesUnimarMG\\EstudiantesUnimarMG.vcxproj|C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\NodoDoble.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4802871B-6A8D-42EB-9B48-1E4D5F68B31A}|EstudiantesUnimarMG\\EstudiantesUnimarMG.vcxproj|solutionrelative:EstudiantesUnimarMG\\NodoDoble.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4802871B-6A8D-42EB-9B48-1E4D5F68B31A}|EstudiantesUnimarMG\\EstudiantesUnimarMG.vcxproj|C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\ListaSimple.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4802871B-6A8D-42EB-9B48-1E4D5F68B31A}|EstudiantesUnimarMG\\EstudiantesUnimarMG.vcxproj|solutionrelative:EstudiantesUnimarMG\\ListaSimple.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4802871B-6A8D-42EB-9B48-1E4D5F68B31A}|EstudiantesUnimarMG\\EstudiantesUnimarMG.vcxproj|C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\ListaDoble.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4802871B-6A8D-42EB-9B48-1E4D5F68B31A}|EstudiantesUnimarMG\\EstudiantesUnimarMG.vcxproj|solutionrelative:EstudiantesUnimarMG\\ListaDoble.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4802871B-6A8D-42EB-9B48-1E4D5F68B31A}|EstudiantesUnimarMG\\EstudiantesUnimarMG.vcxproj|C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\Arbol.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4802871B-6A8D-42EB-9B48-1E4D5F68B31A}|EstudiantesUnimarMG\\EstudiantesUnimarMG.vcxproj|solutionrelative:EstudiantesUnimarMG\\Arbol.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4802871B-6A8D-42EB-9B48-1E4D5F68B31A}|EstudiantesUnimarMG\\EstudiantesUnimarMG.vcxproj|C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\NodoArbol.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4802871B-6A8D-42EB-9B48-1E4D5F68B31A}|EstudiantesUnimarMG\\EstudiantesUnimarMG.vcxproj|solutionrelative:EstudiantesUnimarMG\\NodoArbol.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4802871B-6A8D-42EB-9B48-1E4D5F68B31A}|EstudiantesUnimarMG\\EstudiantesUnimarMG.vcxproj|C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\Arbol.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4802871B-6A8D-42EB-9B48-1E4D5F68B31A}|EstudiantesUnimarMG\\EstudiantesUnimarMG.vcxproj|solutionrelative:EstudiantesUnimarMG\\Arbol.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4802871B-6A8D-42EB-9B48-1E4D5F68B31A}|EstudiantesUnimarMG\\EstudiantesUnimarMG.vcxproj|C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\NodoDoble.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{4802871B-6A8D-42EB-9B48-1E4D5F68B31A}|EstudiantesUnimarMG\\EstudiantesUnimarMG.vcxproj|solutionrelative:EstudiantesUnimarMG\\NodoDoble.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4802871B-6A8D-42EB-9B48-1E4D5F68B31A}|EstudiantesUnimarMG\\EstudiantesUnimarMG.vcxproj|C:\\Users\\gabri\\OneDrive\\Escritorio\\Proyecto EDD Arboles\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\Nota.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{4802871B-6A8D-42EB-9B48-1E4D5F68B31A}|EstudiantesUnimarMG\\EstudiantesUnimarMG.vcxproj|C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\Nota.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{4802871B-6A8D-42EB-9B48-1E4D5F68B31A}|EstudiantesUnimarMG\\EstudiantesUnimarMG.vcxproj|solutionrelative:EstudiantesUnimarMG\\Nota.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4802871B-6A8D-42EB-9B48-1E4D5F68B31A}|EstudiantesUnimarMG\\EstudiantesUnimarMG.vcxproj|C:\\Users\\gabri\\OneDrive\\Escritorio\\Proyecto EDD Arboles\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\NodoSimple.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{4802871B-6A8D-42EB-9B48-1E4D5F68B31A}|EstudiantesUnimarMG\\EstudiantesUnimarMG.vcxproj|C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\NodoSimple.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{4802871B-6A8D-42EB-9B48-1E4D5F68B31A}|EstudiantesUnimarMG\\EstudiantesUnimarMG.vcxproj|solutionrelative:EstudiantesUnimarMG\\NodoSimple.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -86,43 +94,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "NodoArbol.h",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Escritorio\\Proyecto EDD Arboles\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\NodoArbol.h",
+              "DocumentMoniker": "C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\NodoArbol.h",
               "RelativeDocumentMoniker": "EstudiantesUnimarMG\\NodoArbol.h",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Escritorio\\Proyecto EDD Arboles\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\NodoArbol.h",
+              "ToolTip": "C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\NodoArbol.h",
               "RelativeToolTip": "EstudiantesUnimarMG\\NodoArbol.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-03-20T16:09:21.877Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "NodoDoble.h",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Escritorio\\Proyecto EDD Arboles\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\NodoDoble.h",
+              "DocumentMoniker": "C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\NodoDoble.h",
               "RelativeDocumentMoniker": "EstudiantesUnimarMG\\NodoDoble.h",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Escritorio\\Proyecto EDD Arboles\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\NodoDoble.h",
+              "ToolTip": "C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\NodoDoble.h",
               "RelativeToolTip": "EstudiantesUnimarMG\\NodoDoble.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-03-20T16:07:41.851Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "NodoSimple.h",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Escritorio\\Proyecto EDD Arboles\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\NodoSimple.h",
+              "DocumentMoniker": "C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\NodoSimple.h",
               "RelativeDocumentMoniker": "EstudiantesUnimarMG\\NodoSimple.h",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Escritorio\\Proyecto EDD Arboles\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\NodoSimple.h",
+              "ToolTip": "C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\NodoSimple.h",
               "RelativeToolTip": "EstudiantesUnimarMG\\NodoSimple.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -131,67 +137,63 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "Arbol.h",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Escritorio\\Proyecto EDD Arboles\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\Arbol.h",
+              "DocumentMoniker": "C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\Arbol.h",
               "RelativeDocumentMoniker": "EstudiantesUnimarMG\\Arbol.h",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Escritorio\\Proyecto EDD Arboles\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\Arbol.h",
+              "ToolTip": "C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\Arbol.h",
               "RelativeToolTip": "EstudiantesUnimarMG\\Arbol.h",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-03-19T04:39:50.518Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
               "Title": "ListaDoble.h",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Escritorio\\Proyecto EDD Arboles\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\ListaDoble.h",
+              "DocumentMoniker": "C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\ListaDoble.h",
               "RelativeDocumentMoniker": "EstudiantesUnimarMG\\ListaDoble.h",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Escritorio\\Proyecto EDD Arboles\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\ListaDoble.h",
+              "ToolTip": "C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\ListaDoble.h",
               "RelativeToolTip": "EstudiantesUnimarMG\\ListaDoble.h",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-03-20T16:04:19.193Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "ListaSimple.h",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Escritorio\\Proyecto EDD Arboles\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\ListaSimple.h",
+              "DocumentMoniker": "C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\ListaSimple.h",
               "RelativeDocumentMoniker": "EstudiantesUnimarMG\\ListaSimple.h",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Escritorio\\Proyecto EDD Arboles\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\ListaSimple.h",
+              "ToolTip": "C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\ListaSimple.h",
               "RelativeToolTip": "EstudiantesUnimarMG\\ListaSimple.h",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-03-13T19:44:07.106Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "Nota.h",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Escritorio\\Proyecto EDD Arboles\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\Nota.h",
+              "DocumentMoniker": "C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\Nota.h",
               "RelativeDocumentMoniker": "EstudiantesUnimarMG\\Nota.h",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Escritorio\\Proyecto EDD Arboles\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\Nota.h",
+              "ToolTip": "C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\Nota.h",
               "RelativeToolTip": "EstudiantesUnimarMG\\Nota.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-03-15T16:54:33.189Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Materia.h",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Escritorio\\Proyecto EDD Arboles\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\Materia.h",
+              "DocumentMoniker": "C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\Materia.h",
               "RelativeDocumentMoniker": "EstudiantesUnimarMG\\Materia.h",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Escritorio\\Proyecto EDD Arboles\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\Materia.h",
+              "ToolTip": "C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\Materia.h",
               "RelativeToolTip": "EstudiantesUnimarMG\\Materia.h",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -201,63 +203,96 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "Estudiante.h",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Escritorio\\Proyecto EDD Arboles\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\Estudiante.h",
+              "DocumentMoniker": "C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\Estudiante.h",
               "RelativeDocumentMoniker": "EstudiantesUnimarMG\\Estudiante.h",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Escritorio\\Proyecto EDD Arboles\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\Estudiante.h",
+              "ToolTip": "C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\Estudiante.h",
               "RelativeToolTip": "EstudiantesUnimarMG\\Estudiante.h",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-03-15T16:50:34.735Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "EstudiantesUnimarMG.cpp",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Escritorio\\Proyecto EDD Arboles\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\EstudiantesUnimarMG.cpp",
+              "DocumentMoniker": "C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\EstudiantesUnimarMG.cpp",
               "RelativeDocumentMoniker": "EstudiantesUnimarMG\\EstudiantesUnimarMG.cpp",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Escritorio\\Proyecto EDD Arboles\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\EstudiantesUnimarMG.cpp",
+              "ToolTip": "C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\EstudiantesUnimarMG.cpp",
               "RelativeToolTip": "EstudiantesUnimarMG\\EstudiantesUnimarMG.cpp",
-              "ViewState": "AgIAAKcAAAAAAAAAAAAhwLUAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-19T04:39:11.952Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "NodoSimple.cpp",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Escritorio\\Proyecto EDD Arboles\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\NodoSimple.cpp",
-              "RelativeDocumentMoniker": "EstudiantesUnimarMG\\NodoSimple.cpp",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Escritorio\\Proyecto EDD Arboles\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\NodoSimple.cpp",
-              "RelativeToolTip": "EstudiantesUnimarMG\\NodoSimple.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Menus.cpp",
+              "DocumentMoniker": "C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\Menus.cpp",
+              "RelativeDocumentMoniker": "EstudiantesUnimarMG\\Menus.cpp",
+              "ToolTip": "C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\Menus.cpp",
+              "RelativeToolTip": "EstudiantesUnimarMG\\Menus.cpp",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAAAGgAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-19T05:02:24.995Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Arbol.cpp",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Escritorio\\Proyecto EDD Arboles\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\Arbol.cpp",
-              "RelativeDocumentMoniker": "EstudiantesUnimarMG\\Arbol.cpp",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Escritorio\\Proyecto EDD Arboles\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\Arbol.cpp",
-              "RelativeToolTip": "EstudiantesUnimarMG\\Arbol.cpp",
-              "ViewState": "AgIAABQAAAAAAAAAAAAhwB8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-19T04:39:39.604Z",
+              "WhenOpened": "2025-03-23T17:04:37.553Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 1,
+              "Title": "Menus.h",
+              "DocumentMoniker": "C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\Menus.h",
+              "RelativeDocumentMoniker": "EstudiantesUnimarMG\\Menus.h",
+              "ToolTip": "C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\Menus.h",
+              "RelativeToolTip": "EstudiantesUnimarMG\\Menus.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-23T17:03:50.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NodoSimple.cpp",
+              "DocumentMoniker": "C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\NodoSimple.cpp",
+              "RelativeDocumentMoniker": "EstudiantesUnimarMG\\NodoSimple.cpp",
+              "ToolTip": "C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\NodoSimple.cpp",
+              "RelativeToolTip": "EstudiantesUnimarMG\\NodoSimple.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-19T05:02:24.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Arbol.cpp",
+              "DocumentMoniker": "C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\Arbol.cpp",
+              "RelativeDocumentMoniker": "EstudiantesUnimarMG\\Arbol.cpp",
+              "ToolTip": "C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\Arbol.cpp",
+              "RelativeToolTip": "EstudiantesUnimarMG\\Arbol.cpp",
+              "ViewState": "AgIAABQAAAAAAAAAAAAhwB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-19T04:39:39.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Estudiante.cpp",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Escritorio\\Proyecto EDD Arboles\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\Estudiante.cpp",
+              "DocumentMoniker": "C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\Estudiante.cpp",
               "RelativeDocumentMoniker": "EstudiantesUnimarMG\\Estudiante.cpp",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Escritorio\\Proyecto EDD Arboles\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\Estudiante.cpp",
+              "ToolTip": "C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\Estudiante.cpp",
               "RelativeToolTip": "EstudiantesUnimarMG\\Estudiante.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -266,50 +301,47 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "ListaSimple.cpp",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Escritorio\\Proyecto EDD Arboles\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\ListaSimple.cpp",
+              "DocumentMoniker": "C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\ListaSimple.cpp",
               "RelativeDocumentMoniker": "EstudiantesUnimarMG\\ListaSimple.cpp",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Escritorio\\Proyecto EDD Arboles\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\ListaSimple.cpp",
+              "ToolTip": "C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\ListaSimple.cpp",
               "RelativeToolTip": "EstudiantesUnimarMG\\ListaSimple.cpp",
-              "ViewState": "AgIAACEAAAAAAAAAAAAhwEMAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAADIAAAAAAAAAAAAjwD4AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-15T16:16:19.352Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-15T16:16:19.352Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Materia.cpp",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Escritorio\\Proyecto EDD Arboles\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\Materia.cpp",
+              "DocumentMoniker": "C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\Materia.cpp",
               "RelativeDocumentMoniker": "EstudiantesUnimarMG\\Materia.cpp",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Escritorio\\Proyecto EDD Arboles\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\Materia.cpp",
+              "ToolTip": "C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\Materia.cpp",
               "RelativeToolTip": "EstudiantesUnimarMG\\Materia.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-18T23:27:54.938Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T23:27:54.938Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "ListaDoble.cpp",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Escritorio\\Proyecto EDD Arboles\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\ListaDoble.cpp",
+              "DocumentMoniker": "C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\ListaDoble.cpp",
               "RelativeDocumentMoniker": "EstudiantesUnimarMG\\ListaDoble.cpp",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Escritorio\\Proyecto EDD Arboles\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\ListaDoble.cpp",
+              "ToolTip": "C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\ListaDoble.cpp",
               "RelativeToolTip": "EstudiantesUnimarMG\\ListaDoble.cpp",
               "ViewState": "AgIAAFcAAAAAAAAAAAAqwGsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-20T16:05:38.548Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-20T16:05:38.548Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "NodoDoble.cpp",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Escritorio\\Proyecto EDD Arboles\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\NodoDoble.cpp",
+              "DocumentMoniker": "C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\NodoDoble.cpp",
               "RelativeDocumentMoniker": "EstudiantesUnimarMG\\NodoDoble.cpp",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Escritorio\\Proyecto EDD Arboles\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\NodoDoble.cpp",
+              "ToolTip": "C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\NodoDoble.cpp",
               "RelativeToolTip": "EstudiantesUnimarMG\\NodoDoble.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -317,11 +349,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 10,
               "Title": "NodoArbol.cpp",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Escritorio\\Proyecto EDD Arboles\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\NodoArbol.cpp",
+              "DocumentMoniker": "C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\NodoArbol.cpp",
               "RelativeDocumentMoniker": "EstudiantesUnimarMG\\NodoArbol.cpp",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Escritorio\\Proyecto EDD Arboles\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\NodoArbol.cpp",
+              "ToolTip": "C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\NodoArbol.cpp",
               "RelativeToolTip": "EstudiantesUnimarMG\\NodoArbol.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -329,11 +361,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "Nota.cpp",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Escritorio\\Proyecto EDD Arboles\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\Nota.cpp",
+              "DocumentMoniker": "C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\Nota.cpp",
               "RelativeDocumentMoniker": "EstudiantesUnimarMG\\Nota.cpp",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Escritorio\\Proyecto EDD Arboles\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\Nota.cpp",
+              "ToolTip": "C:\\Users\\nombr\\OneDrive\\Documentos\\code\\tarea\\MiguelGabrielEDD\\EstudiantesUnimarMG\\EstudiantesUnimarMG\\Nota.cpp",
               "RelativeToolTip": "EstudiantesUnimarMG\\Nota.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",

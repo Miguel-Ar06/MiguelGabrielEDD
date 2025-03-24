@@ -1,9 +1,12 @@
-﻿  Arbol.cpp
-  Estudiante.cpp
-  EstudiantesUnimarMG.cpp
-  ListaDoble.cpp
-  Materia.cpp
-  NodoArbol.cpp
-  NodoDoble.cpp
-  Generando código...
-  EstudiantesUnimarMG.vcxproj -> C:\Users\gabri\OneDrive\Escritorio\Proyecto EDD Arboles\MiguelGabrielEDD\EstudiantesUnimarMG\x64\Debug\EstudiantesUnimarMG.exe
+﻿  EstudiantesUnimarMG.cpp
+C:\Users\nombr\OneDrive\Documentos\code\tarea\MiguelGabrielEDD\EstudiantesUnimarMG\EstudiantesUnimarMG\EstudiantesUnimarMG.cpp(142,13): warning C4551: function call missing argument list
+C:\Users\nombr\OneDrive\Documentos\code\tarea\MiguelGabrielEDD\EstudiantesUnimarMG\EstudiantesUnimarMG\EstudiantesUnimarMG.cpp(228,55): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Menus.cpp
+C:\Users\nombr\OneDrive\Documentos\code\tarea\MiguelGabrielEDD\EstudiantesUnimarMG\EstudiantesUnimarMG\Menus.cpp(51,33): warning C4101: 'error': unreferenced local variable
+C:\Users\nombr\OneDrive\Documentos\code\tarea\MiguelGabrielEDD\EstudiantesUnimarMG\EstudiantesUnimarMG\Menus.cpp(77,33): warning C4101: 'error': unreferenced local variable
+C:\Users\nombr\OneDrive\Documentos\code\tarea\MiguelGabrielEDD\EstudiantesUnimarMG\EstudiantesUnimarMG\Menus.cpp(103,33): warning C4101: 'error': unreferenced local variable
+C:\Users\nombr\OneDrive\Documentos\code\tarea\MiguelGabrielEDD\EstudiantesUnimarMG\EstudiantesUnimarMG\Menus.cpp(130,33): warning C4101: 'error': unreferenced local variable
+C:\Users\nombr\OneDrive\Documentos\code\tarea\MiguelGabrielEDD\EstudiantesUnimarMG\EstudiantesUnimarMG\Menus.cpp(143,33): warning C4101: 'error': unreferenced local variable
+C:\Users\nombr\OneDrive\Documentos\code\tarea\MiguelGabrielEDD\EstudiantesUnimarMG\EstudiantesUnimarMG\Menus.cpp(157,33): warning C4101: 'error': unreferenced local variable
+  Generating Code...
+  EstudiantesUnimarMG.vcxproj -> C:\Users\nombr\OneDrive\Documentos\code\tarea\MiguelGabrielEDD\EstudiantesUnimarMG\x64\Debug\EstudiantesUnimarMG.exe
