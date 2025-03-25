@@ -17,6 +17,7 @@ namespace EstudiantesUnimarMG
 			float Promedio();
 			bool esVacia();
 			void Mostrar();
+			float porcentajeAcumulado();
 	};
 }
 

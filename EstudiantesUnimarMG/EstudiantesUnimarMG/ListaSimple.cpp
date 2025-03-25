@@ -79,3 +79,13 @@ void ListaSimple::Mostrar() {
 	}
 }
 
+float ListaSimple::porcentajeAcumulado() {
+	float suma = 0;
+	NodoSimple* actual = cabeza;
+	while (actual != nullptr)
+	{
+		suma += actual->nota->porcentaje;
+		actual = actual->sig;
+	}
+	return suma;
+}

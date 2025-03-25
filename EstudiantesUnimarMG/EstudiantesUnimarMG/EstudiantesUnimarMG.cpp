@@ -124,6 +124,7 @@ int main()
 					break;
 				}
 
+				do{
 				if (arbolito.BuscarEstudiante(cedulaABuscar) != nullptr)
 				{
 					arbolito.BuscarEstudiante(cedulaABuscar)->estudiante->MostrarEstudiante();
@@ -135,21 +136,20 @@ int main()
 					break;
 				}
 
-				do
-				{
-					Menus::MostrarMenuEstudiante();
-					opcionEstudiante = Menus::TomarYValidarEntradaInt("Opcion", 1, 4);
-					Menus::Limpiar;
-
-					if (opcionEstudiante == -1)
+					do
 					{
-						Menus::MostrarBanner("Error: Ingrese una opcion valida");
-					}
-				} 
-				while (opcionEstudiante == -1);
+						Menus::MostrarMenuEstudiante();
+						opcionEstudiante = Menus::TomarYValidarEntradaInt("Opcion", 1, 4);
+						Menus::Limpiar;
 
-				switch (opcionEstudiante)
-				{
+						if (opcionEstudiante == -1)
+						{
+							Menus::MostrarBanner("Error: Ingrese una opcion valida");
+						}
+					} while (opcionEstudiante == -1);
+
+					switch (opcionEstudiante)
+					{
 					case 1:
 					{
 						//Agregar Materia
@@ -165,7 +165,7 @@ int main()
 						Menus::Limpiar();
 
 						arbolito.BuscarEstudiante(cedulaABuscar)->estudiante->materias.Insertar(new NodoDoble(new Materia(codigo, nombreMateria)));
-						
+
 						break;
 					}
 					case 2:
@@ -179,7 +179,7 @@ int main()
 						arbolito.BuscarEstudiante(cedulaABuscar)->estudiante->materias.Eliminar(codigo);
 						Menus::MostrarBanner("Materia eliminada exitosamente");
 						break;
-					}   
+					}
 					case 3:
 					{
 						//Ver informacion de una Materia
@@ -188,24 +188,25 @@ int main()
 						cin >> codigo;
 						Menus::Limpiar();
 
-						materiaABuscar = arbolito.BuscarEstudiante(cedulaABuscar)->estudiante->materias.Buscar(codigo)->materia;
-						materiaABuscar->mostrar();
+						if (arbolito.BuscarEstudiante(cedulaABuscar)->estudiante->materias.Buscar(codigo) != nullptr){
+							materiaABuscar = arbolito.BuscarEstudiante(cedulaABuscar)->estudiante->materias.Buscar(codigo)->materia;
+							do{
+							materiaABuscar->mostrar();
 
-						do
-						{
-							Menus::MostrarMenuMateria();
-							opcionMateria = Menus::TomarYValidarEntradaInt("Opcion", 1, 4);
-							Menus::Limpiar();
-
-							if (opcionMateria == -1)
+							do
 							{
-								Menus::MostrarBanner("Error: Ingrese una opcion valida");
-							}
-						} 
-						while (opcionMateria == -1);
+								Menus::MostrarMenuMateria();
+								opcionMateria = Menus::TomarYValidarEntradaInt("Opcion", 1, 4);
+								Menus::Limpiar();
 
-						switch (opcionMateria)
-						{
+								if (opcionMateria == -1)
+								{
+									Menus::MostrarBanner("Error: Ingrese una opcion valida");
+								}
+							} while (opcionMateria == -1);
+
+							switch (opcionMateria)
+							{
 							case 1:
 							{
 								//Agregar Nota
@@ -219,21 +220,23 @@ int main()
 									{
 										Menus::MostrarBanner("Ingrese una fecha valida");
 									}
-								} 
-								while (fecha == "");
+								} while (fecha == "");
 
 								do
 								{
 									Menus::MostrarBanner("Ingrese porcentaje de la evaluacion:");
 									porcentaje = Menus::TomarYValidarEntradaFloat("Porcentaje", 0.0f, 100.0f);
 									Menus::Limpiar();
-
 									if (porcentaje == -1.0f)
 									{
 										Menus::MostrarBanner("Error: Ingrese un porcentaje del 1 al 100");
 									}
-								} 
-								while (porcentaje == -1.0f);
+									if (arbolito.BuscarEstudiante(cedulaABuscar)->estudiante->materias.Buscar(codigo)->materia->notas.porcentajeAcumulado() + porcentaje > 100) {
+										Menus::MostrarBanner("Error: El porcentaje acumulado de las notas de la materia supera el 100%");
+										porcentaje = -1.0f;
+									}
+
+								} while (porcentaje == -1.0f);
 
 								do
 								{
@@ -245,8 +248,7 @@ int main()
 									{
 										Menus::MostrarBanner("Error: Ingrese una nota del 0 al 20");
 									}
-								} 
-								while (nota == -1.0f);
+								} while (nota == -1.0f);
 
 								// xd?   
 								Nota* notita = new Nota(nota, fecha, porcentaje);
@@ -268,8 +270,7 @@ int main()
 									{
 										Menus::MostrarBanner("Ingrese una fecha valida");
 									}
-								}
-								while (fecha == "");
+								} while (fecha == "");
 
 								materiaABuscar->notas.Eliminar(fecha);
 								materiaABuscar->actualizarNotaFinal();
@@ -284,11 +285,17 @@ int main()
 
 								break;
 							}
+							} 
+							} while (opcionMateria != 4);
+						}
+						else {
+							Menus::MostrarBanner("Materia no encontrada");
 						}
 
 						break;
 					}
-				}
+					}
+				} while (opcionEstudiante != 4);
 
 				break;
 			}
