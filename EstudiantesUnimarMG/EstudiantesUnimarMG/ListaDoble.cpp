@@ -94,6 +94,7 @@ void ListaDoble::Mostrar() {
 		actual = actual->sig;
 	}
 }
+
 NodoDoble* ListaDoble::Buscar(string _codigo) {
 	NodoDoble* actual = cabeza;
 	while (actual != nullptr)
@@ -105,4 +106,20 @@ NodoDoble* ListaDoble::Buscar(string _codigo) {
 		actual = actual->sig;
 	}
 	return nullptr;
+}
+
+bool ListaDoble::verificarDuplicado(string _codigo) 
+{
+	NodoDoble* actual = cabeza;
+
+	while (actual != nullptr)
+	{
+		if (actual->materia->codigo == _codigo)
+		{
+			return true;
+		}
+		actual = actual->sig;
+	}
+
+	return false;
 }

@@ -164,7 +164,14 @@ int main()
 						cin >> codigo;
 						Menus::Limpiar();
 
-						arbolito.BuscarEstudiante(cedulaABuscar)->estudiante->materias.Insertar(new NodoDoble(new Materia(codigo, nombreMateria)));
+						if (arbolito.BuscarEstudiante(cedulaABuscar)->estudiante->materias.verificarDuplicado(codigo) == false)
+						{
+							arbolito.BuscarEstudiante(cedulaABuscar)->estudiante->materias.Insertar(new NodoDoble(new Materia(codigo, nombreMateria)));
+						}
+						else
+						{
+							Menus::MostrarBanner("Error: Una materia ya posee este codigo");
+						}
 
 						break;
 					}
